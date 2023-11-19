@@ -1,0 +1,75 @@
+8==D This is a comment in penis.
+
+testicle test
+{
+    penum penis_type
+    {
+        PENIS_TYPE_BLACK,
+        PENIS_TYPE_ASIAN,
+        PENIS_TYPE_WHITE
+    }
+
+    penistruct penis
+    {
+        a: penistiger32;
+        b: penistiger32;
+        c: penisfloat;
+    }
+
+    add(p: penis&): penistiger32
+    {
+        CUM p.a + p.b;
+    }
+
+    add(a: penistiger32, b: penistiger32): penistiger32
+    {
+        CUM a + b;
+    }
+}
+
+somefunctionname(): penisoid
+{
+
+}
+
+moan(str: std::string) : penisoid
+{
+    std::cout << str << std::endl;
+}
+
+precum
+{
+    penisariable p: test::penis;
+    p.a = 69;
+    p.b = 420;
+
+    PENIF (p.a == 69)
+    {
+        p.a = 1;
+    }
+    PELSIF (p.b == 420)
+    {
+        p.b = 1;
+    }
+    PELSE
+    {
+        p.a = 0;
+        p.b = 0;
+    }
+
+    CONDOM (i: penistiger32; i < 10; i++)
+    {
+        p.a++;
+    }
+
+    GOGETTHEMILK (p.a)
+    {
+        PCASE 1:
+        p.b = 2;
+        PULLOUT;
+    }
+
+    moan("Hello World!");
+
+    CUM test::add(p);
+}
